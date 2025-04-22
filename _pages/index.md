@@ -32,7 +32,7 @@ permalink: /
   
 
 
-![image](/rinapipepe_WebSite/assets/images/opencampus.jepg)
+![image](/rinapipepe_WebSite/assets/images/opencampus.jpeg)
 
 
 ---
