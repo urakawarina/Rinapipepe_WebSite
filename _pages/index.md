@@ -31,7 +31,7 @@ permalink: /
 ## 今年の夏、近大オールスターズで待っています！
   
 
-![image](/GHPages_WebSite/assets/images/opencampus.jpeg)
+![image](/assets/images/opencampus.jpeg)
 
 
 
