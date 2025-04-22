@@ -5,8 +5,11 @@ permalink: /
 ---
 
 
-こんばんわ
+
   
+
+![image](/GHPages_WebSite/assets/images/opencampus.jpeg)
+
 
 
 ---
