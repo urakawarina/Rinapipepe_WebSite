@@ -1,5 +1,5 @@
 ---
-title: "みんなでオープンキャンパスを盛り上げよう！学部を超えて友人を作れる近大オールスターズに入りませんか！
+title: "学部を超えて友人を作れる近大オールスターズに入りませんか！
 "
 author: default
 permalink: /
@@ -30,8 +30,8 @@ permalink: /
 
 ## 今年の夏、近大オールスターズで待っています！
   
+![image](/GHPages_WebSite/assets/images/opencampus.jpeg)
 
-![image](/assets/images/opencampus.jpeg)
 
 
 
